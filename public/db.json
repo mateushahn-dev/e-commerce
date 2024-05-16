@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Combo Gamer Meetion",
+      "image": "/images/products/product-4.png",
+      "rating": 4,
+      "price": 151.99,
+      "description": "O Combo Gamer Meetion é a escolha perfeita para os entusiastas de jogos que procuram melhorar sua experiência de jogo. Com um teclado mecânico de alta precisão, mouse ergonômico e um headset com áudio imersivo, este combo oferece o equilíbrio ideal entre desempenho e conforto. Prepare-se para mergulhar em seus jogos favoritos com este conjunto de acessórios de qualidade premium da Meetion."
+    },
+    {
+      "id": 2,
+      "name": "Msi GeFore Gtx 1650",
+      "image": "/images/products/product-5.png",
+      "rating": 5,
+      "price": 805.99,
+      "description": "A MSI GeForce GTX 1650 é uma poderosa placa de vídeo projetada para oferecer desempenho excepcional em jogos e aplicativos gráficos intensivos. Com sua arquitetura Turing avançada e 4GB de memória GDDR6, esta placa oferece gráficos suaves e imersivos em resolução 1080p. Seja para jogos de última geração ou para tarefas de edição de vídeo, a GTX 1650 da MSI oferece o poder e a confiabilidade que os entusiastas de PC procuram."
+    },
+    {
+      "id": 3,
+      "name": "Dualsense PS5",
+      "image": "/images/products/product-6.png",
+      "rating": 5,
+      "price": 359.99,
+      "description": "O DualSense é o inovador controle sem fio desenvolvido pela Sony para o PlayStation 5. Com sua tecnologia háptica avançada, gatilhos adaptáveis e design ergonômico, o DualSense proporciona uma experiência de jogo imersiva e envolvente como nunca antes. Sinta a textura dos ambientes, a tensão dos gatilhos e a resposta tátil em suas mãos enquanto mergulha em seus jogos favoritos. Com o DualSense, a próxima geração de jogos está literalmente ao seu alcance."
+    },
+    {
+      "id": 4,
+      "name": "Cadeira Gamer Frizzi",
+      "image": "/images/products/product-7.png",
+      "rating": 3,
+      "price": 499.99,
+      "description": "A cadeira gamer Frizzi combina conforto e estilo para proporcionar uma experiência única durante suas longas sessões de jogo. Com um design ergonômico e estofamento acolchoado, a Frizzi oferece suporte adequado para a coluna e conforto para horas de jogatina. Seu visual moderno e elegante, aliado a materiais de alta qualidade, torna a cadeira Frizzi não apenas uma escolha funcional, mas também um destaque estiloso para qualquer ambiente gamer. Prepare-se para imergir nos seus jogos favoritos com conforto e estilo incomparáveis."
+    },
+    {
+      "id": 5,
+      "name": "iPhone 14 Pro Max 512GB",
+      "image": "/images/products/product-8.png",
+      "rating": 5,
+      "price": 9999.90,
+      "description": "O iPhone 14 Pro Max 512GB eleva o padrão de excelência da Apple para outro nível. Com uma tela impressionante Super Retina XDR de 6,7 polegadas, câmeras avançadas de última geração e desempenho excepcional alimentado pelo chip A16 Bionic, este dispositivo redefine o que é possível em um smartphone. Com capacidade de armazenamento de 512GB, você terá espaço de sobra para armazenar suas fotos, vídeos e aplicativos favoritos. Além disso, com recursos inovadores como 5G, Face ID aprimorado e uma bateria de longa duração, o iPhone 14 Pro Max oferece uma experiência premium incomparável."
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy S23 Ultra 1TB",
+      "image": "/images/products/product-9.png",
+      "rating": 5,
+      "price": 6999.99,
+      "description": "O Samsung Galaxy S23 Ultra 1TB é um verdadeiro expoente da inovação tecnológica. Equipado com um poderoso processador, uma tela deslumbrante de alta resolução e uma câmera versátil de última geração, este smartphone redefine os limites do que é possível em um dispositivo móvel. Com uma impressionante capacidade de armazenamento de 1TB, você terá espaço de sobra para todos os seus aplicativos, fotos, vídeos e muito mais. Além disso, com recursos avançados como conectividade 5G, reconhecimento facial e uma bateria de longa duração, o Samsung Galaxy S23 Ultra oferece uma experiência de usuário incomparável para atender às suas necessidades diárias."
+    },
+    {
+      "id": 7,
+      "name": "Asus Rog Phone 3 Gamer",
+      "image": "/images/products/product-10.png",
+      "rating": 4,
+      "price": 5599.99,
+      "description": "O Asus Rog Phone 3 Gamer é um dispositivo projetado especificamente para os entusiastas de jogos móveis mais exigentes. Equipado com um processador de alto desempenho, uma tela de alta taxa de atualização e controles otimizados para jogos, este smartphone oferece uma experiência de jogo imersiva e sem igual. Com recursos como a tecnologia AirTrigger, que simula os botões de um controle de console, e o sistema de refrigeração avançado, que mantém o dispositivo funcionando suavemente durante longas sessões de jogo, o Asus Rog Phone 3 Gamer é a escolha ideal para quem busca o máximo desempenho em jogos móveis."
+    },
+    {
+      "id": 8,
+      "name": "Xiaomi 13 Ultra",
+      "image": "/images/products/product-11.png",
+      "rating": 4,
+      "price": 1749.90,
+      "description": "O Xiaomi 13 Ultra é um smartphone premium que combina design elegante, desempenho poderoso e recursos inovadores. Com um display de alta resolução e taxa de atualização rápida, este dispositivo oferece uma experiência visual imersiva para streaming de vídeos, jogos e muito mais. Equipado com um processador de última geração e uma câmera de alta qualidade, o Xiaomi 13 Ultra permite capturar fotos e vídeos impressionantes em qualquer situação. Além disso, possui uma bateria de longa duração e recursos avançados de conectividade para mantê-lo produtivo e conectado o dia todo. Com seu design premium e desempenho excepcional, o Xiaomi 13 Ultra é uma escolha excelente para quem busca um smartphone de ponta."
+    },
+    {
+      "id": 9,
+      "name": "Xbox Series X",
+      "image": "/images/products/product-12.png",
+      "rating": 5,
+      "price": 44679.90,
+      "description": "O Xbox Series X é o mais recente console de videogame da Microsoft, oferecendo uma experiência de jogo de próxima geração com recursos poderosos e inovações tecnológicas. Com hardware de última geração, o Xbox Series X oferece gráficos de alta qualidade, tempos de carregamento rápidos e desempenho suave para uma jogabilidade imersiva. Além disso, possui uma ampla gama de jogos exclusivos e compatibilidade com versões anteriores, permitindo que os jogadores explorem uma vasta biblioteca de títulos. Com recursos como o Xbox Game Pass, que oferece acesso a uma ampla variedade de jogos por uma taxa mensal, e o Xbox Live, que permite jogar online com amigos e competir em torneios, o Xbox Series X oferece uma experiência completa de entretenimento para jogadores de todas as idades."
+    },
+    {
+      "id": 10,
+      "name": "Racingwheel GT480 Ferrari",
+      "image": "/images/products/product-13.png",
+      "rating": 5,
+      "price": 999.79,
+      "description": "O Racingwheel GT480 Ferrari é um volante de corrida projetado para oferecer uma experiência imersiva e realista para os entusiastas de jogos de corrida. Com o design inspirado nos volantes dos carros Ferrari, oferece uma sensação autêntica de direção. Equipado com pedais de aceleração e freio, proporciona controle preciso sobre o veículo virtual durante as corridas. Além disso, possui feedback de força que simula as condições da pista e a resposta do veículo, adicionando uma camada adicional de realismo ao jogo. Compatível com uma variedade de plataformas de jogos e títulos de corrida populares, o Racingwheel GT480 Ferrari permite que os jogadores mergulhem completamente na experiência de corrida."
+    },
+    {
+      "id": 11,
+      "name": "PlayStation 5",
+      "image": "/images/products/product-14.png",
+      "rating": 5,
+      "price": 3339.90,
+      "description": "O PlayStation 5, também conhecido como PS5, é a mais recente geração de consoles de videogame da Sony. Com hardware de última geração, o PS5 oferece gráficos impressionantes, desempenho de alta velocidade e uma variedade de recursos inovadores para proporcionar uma experiência de jogo excepcional. Com uma biblioteca de jogos diversificada, incluindo títulos exclusivos e multiplataforma, os jogadores podem desfrutar de uma ampla gama de experiências de jogo. Além disso, o PS5 oferece recursos como tempos de carregamento ultrarrápidos, áudio 3D imersivo e feedback tátil por meio do controle DualSense, que oferece uma sensação mais envolvente e realista durante o jogo. Com sua poderosa capacidade de processamento e recursos avançados, o PlayStation 5 redefine os limites do entretenimento digital e proporciona aos jogadores uma nova maneira de experimentar os mundos dos videogames."
+    },
+    {
+      "id": 12,
+      "name": "Gaming Desktop RTX 3090Ti",
+      "image": "/images/products/product-15.png",
+      "rating": 5,
+      "price": 7869.99,
+      "description": "O Gaming Desktop RTX 3090Ti é uma máquina poderosa projetada para oferecer desempenho excepcional em jogos e tarefas intensivas. Equipado com a placa de vídeo NVIDIA GeForce RTX 3090Ti, este desktop oferece gráficos impressionantes e renderização de alta qualidade para uma experiência de jogo imersiva. Além disso, sua potente CPU e RAM de alta velocidade garantem tempos de resposta rápidos e suaves, permitindo que você jogue os jogos mais exigentes sem problemas. Com recursos avançados de refrigeração e design elegante, o Gaming Desktop RTX 3090Ti não só oferece desempenho superior, mas também se destaca visualmente em qualquer configuração de jogo. Se você está procurando uma experiência de jogo de última geração e deseja o melhor desempenho possível, o Gaming Desktop RTX 3090Ti é uma escolha excelente."
+    }
+  ]
+}
